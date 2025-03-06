@@ -1,16 +1,17 @@
 
   header{
-  background-color:rgb(209, 140, 28);
+  background-color:goldenrod;
 }
 main{
  
 }
 img{
     width:100px;
+  height:100px
 }
 footer{
-    background-color: rgb(156, 156, 156);  
+    background-color: gray;  
 }
 body{
-    background-color:rgb(245, 198, 123) ;
+    background-color: burlywood ;
 }
