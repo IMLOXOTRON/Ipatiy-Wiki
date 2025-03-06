@@ -1,6 +1,16 @@
-header{
-  background-color:burlywood;
+
+  header{
+  background-color:rgb(209, 140, 28);
 }
 main{
-  backround-color:peru;
+ 
+}
+img{
+    width: 100px;
+}
+footer{
+    background-color: rgb(156, 156, 156);  
+}
+body{
+    background-color:rgb(245, 198, 123) ;
 }
